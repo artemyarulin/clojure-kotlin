@@ -16,3 +16,7 @@ $ clj --eval "(import example.App) (.ping (example.App.))"
 example.App
 "pong"
 ```
+
+## Alternative
+
+https://github.com/seancorfield/boot-kotlinc - A Boot task that provides compilation of Kotlin source files.
